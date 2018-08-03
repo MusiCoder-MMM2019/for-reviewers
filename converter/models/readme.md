@@ -1,0 +1,1 @@
+Click [here](https://www.dropbox.com/s/y2rstqwq21xph99/water.ckpt.zip?dl=0) to download model for texture "water", which is donated as $\tau_3$ in our paper. Models for more textures will be released after acceptance.
